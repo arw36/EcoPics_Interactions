@@ -1,5 +1,5 @@
 { 
-  "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "citation": "Jorrit H. Poelen. 2014. Species associations manually extracted from literature.",
+  "_comment": "Species interactions extracted from Fronteirs EcoPics (https://www.esa.org/frontiers-in-ecology-and-the-environment/frontiers-ecopics/) ",
+  "citation": "Anna Willoughby 2021. Species associations manually extracted from Frontiers EcoPics.",
   "deprecated": false
 }
