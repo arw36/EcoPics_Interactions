@@ -1,3 +1,6 @@
 [![GloBI review by Elton](https://github.com/arw36/EcoPics_Interactions/actions/workflows/review.yml/badge.svg)](https://github.com/arw36/EcoPics_Interactions/actions)  [![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:arw36/EcoPics_Interactions)](https://globalbioticinteractions.org/?accordingTo=globi:arw36/EcoPics_Interactions) 
 
 This repository provides species interactions manually extracted from the EcoPics section of Frontiers in Ecology and the Environment (Volume 17, Issue 10 - Volume 20, Issue 3) for incorporation into GLOBI ( ```http://globalbioticinteractions.org``` ). 
+
+Citation:
+Willoughby, AR 2021. Species associations manually extracted from Frontiers EcoPics. https://github.com/arw36/EcoPics_Interactions
